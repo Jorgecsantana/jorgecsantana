@@ -14,9 +14,7 @@ Agora procuro um estágio em IA para aprender com quem faz isso todos os dias e 
 - 🌱 **Atualmente aprofundando:** TypeScript/React, back-end com APIs REST, SQL e nuvem/Linux *(em estudo)*
 - 📍 **Rio de Janeiro, RJ** — aberto a estágio em IA, desenvolvimento e suporte técnico
 
-| 3 | 3 | 9 | 1 |
-| --- | --- | --- | --- |
-| Projetos em destaque | Áreas de atuação | Habilidades listadas | Objetivo: estágio em IA |
+![3 projetos em destaque](https://img.shields.io/badge/3-Projetos_em_destaque-000000?style=for-the-badge) ![3 áreas de atuação](https://img.shields.io/badge/3-%C3%81reas_de_atua%C3%A7%C3%A3o-000000?style=for-the-badge) ![9 habilidades listadas](https://img.shields.io/badge/9-Habilidades_listadas-000000?style=for-the-badge) ![1 objetivo: estágio em IA](https://img.shields.io/badge/1-Objetivo%3A_est%C3%A1gio_em_IA-000000?style=for-the-badge)
 
 ---
 
@@ -26,32 +24,32 @@ Agora procuro um estágio em IA para aprender com quem faz isso todos os dias e 
 
 Automação de um ambiente com Arduino e ESP32, unindo hardware e software para deixar um cômodo conectado e inteligente. Automação do Laboratório 1 com Arduino (DHT11, LEDs, buzzers) e ESP32 (RFID RC522, tela TFT ST7735), painel web local, notificações no Telegram e bot de boas-vindas hospedado na Vercel.
 
-`Arduino` `ESP32` `IoT` `Telegram` `Vercel`
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat-square) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square) ![IoT](https://img.shields.io/badge/IoT-000000?style=flat-square) ![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square)
 
 #### OpenBot — Inteligência artificial
 
 Uma equipe de agentes de IA que atuam juntos, cada um com seu papel, para dividir e resolver tarefas. Sistema de gestão e orquestração de equipes de agentes de IA por função e modelo, com economia de tokens.
 
-`Agentes de IA` `Multiagentes` `Automação`
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-000000?style=flat-square) ![Multiagentes](https://img.shields.io/badge/Multiagentes-000000?style=flat-square) ![Automação](https://img.shields.io/badge/Automação-000000?style=flat-square)
 
 #### CRUD Web — Aplicação web
 
 Sistema web para criar, consultar, atualizar e excluir registros, com PHP no servidor e MySQL no banco de dados. Aplicação web com operações CRUD, back-end em PHP com MySQL em ambiente local XAMPP, front-end em HTML e CSS, com modelagem e normalização de banco de dados.
 
-`PHP` `MySQL` `CRUD` `HTML` `CSS` `XAMPP`
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square) ![CRUD](https://img.shields.io/badge/CRUD-000000?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square) ![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=flat-square)
 
 ---
 
 ![03 — Habilidades — O que eu uso.](assets/section-03.svg)
 
 **Inteligência artificial** — Meu foco de estudo: agentes que dividem tarefas e colaboram entre si.
-`Agentes de IA` `Multiagentes`
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-000000?style=flat-square) ![Multiagentes](https://img.shields.io/badge/Multiagentes-000000?style=flat-square)
 
 **IoT e automação** — Placas e microcontroladores para levar o software ao mundo físico.
-`Arduino` `ESP32` `IoT` `RFID` `Sensores`
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat-square) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square) ![IoT](https://img.shields.io/badge/IoT-000000?style=flat-square) ![RFID](https://img.shields.io/badge/RFID-000000?style=flat-square) ![Sensores](https://img.shields.io/badge/Sensores-000000?style=flat-square)
 
 **Desenvolvimento web** — Sistemas web com servidor, banco de dados e operações completas de cadastro.
-`HTML` `CSS` `JavaScript` `PHP` `Python` `SQL` `Java` `Node.js`
+![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square) ![Python](https://img.shields.io/badge/Python-000000?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square) ![Java](https://img.shields.io/badge/Java-000000?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square)
 
 **Dados e infra** — `MySQL` `Supabase` `Git`
 
