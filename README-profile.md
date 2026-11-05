@@ -69,6 +69,8 @@ Sistema web para criar, consultar, atualizar e excluir registros, com PHP no ser
 Se você tem uma vaga de estágio em IA ou quer trocar uma ideia, me chame no LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgecorreasantana/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorgesantana_a/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgecorrw@gmail.com)
 
 ---
 
