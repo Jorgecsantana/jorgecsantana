@@ -1,6 +1,6 @@
 # Jorge Corrêa dos Santos Santana
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=000000&center=true&vCenter=true&width=620&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Foco+em+IA;Em+busca+de+est%C3%A1gio+em+IA)](https://github.com/Jorgesantanayt)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=000000&center=true&vCenter=true&width=620&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Foco+em+IA;Em+busca+de+est%C3%A1gio+em+IA)](https://github.com/jorgecsantana)
 
 **Estudante de Sistemas de Informação · Foco em IA · Em busca de estágio em IA**
 
@@ -82,7 +82,7 @@ Se você tem uma vaga de estágio em IA ou quer trocar uma ideia, me chame no Li
 
 ---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jorgesantanayt&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgesantanayt&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jorgecsantana&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgecsantana&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff)
 
 © 2026 Jorge Corrêa dos Santos Santana
