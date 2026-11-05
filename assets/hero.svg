@@ -1,7 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
-  <rect width="1200" height="340" fill="#000000"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+  <rect width="1200" height="400" fill="#000000"/>
   <rect x="40" y="40" width="60" height="6" fill="#ffffff"/>
   <text x="40" y="150" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="bold" fill="#ffffff">Jorge Corrêa</text>
   <text x="40" y="230" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="bold" fill="#ffffff">dos Santos Santana</text>
-  <text x="40" y="290" font-family="monospace" font-size="24" fill="#bbbbbb">Estudante de Sistemas de Informação  ·  Foco em IA  ·  Em busca de estágio em IA</text>
+  <text x="40" y="310" font-family="monospace" font-size="28" fill="#ffffff" opacity="0">Estudante de Sistemas de Informação
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.28;0.36" dur="9s" repeatCount="indefinite"/>
+  </text>
+  <text x="40" y="310" font-family="monospace" font-size="28" fill="#ffffff" opacity="0">Foco em IA
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.28;0.36" dur="9s" begin="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="40" y="310" font-family="monospace" font-size="28" fill="#ffffff" opacity="0">Em busca de estágio em IA
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.28;0.36" dur="9s" begin="6s" repeatCount="indefinite"/>
+  </text>
 </svg>
