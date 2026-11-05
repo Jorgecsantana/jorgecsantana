@@ -1,6 +1,5 @@
 ![Jorge Corrêa dos Santos Santana — Estudante de Sistemas de Informação, foco em IA, em busca de estágio em IA](assets/hero.svg)
 
-[![Estudante de Sistemas de Informação — Foco em IA — Em busca de estágio em IA](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=620&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Foco+em+IA;Em+busca+de+est%C3%A1gio+em+IA)](https://github.com/jorgecsantana)
 
 ---
 
